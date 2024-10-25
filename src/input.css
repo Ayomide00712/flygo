@@ -2,10 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-
+.debug{
+    border: 1px red solid;
+}
 .background{
     background-color: #11315A;
 }
-.backimage{
-    background-image: ;
-}
+
+
